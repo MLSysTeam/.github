@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-MLSysTeam is an open-source community dedicated to reducing engineering burdens and enabling researchers and scientists to focus on model design. 
+MLSysTeam is an open-source community dedicated to reducing engineering burdens and enabling researchers to focus on model design. 
 
 To achieve this goal, we have developed a collection of hands-on tutorials and templates that streamline the process of model development and deployment. 
 
