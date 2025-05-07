@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-MLSysTeam is an open-source community dedicated to reducing engineering burdens and enabling researchers and scientists to focus on model design. To achieve this goal, we have developed a collection of hands-on tutorials and templates that streamline the process of model development and deployment. You can find more information and updates on our blog at https://yanlu.substack.com/.
+MLSysTeam is an open-source community dedicated to reducing engineering burdens and enabling researchers and scientists to focus on model design. 
+
+To achieve this goal, we have developed a collection of hands-on tutorials and templates that streamline the process of model development and deployment. 
+
+You can find more information and updates on our blog at https://yanlu.substack.com/.
 
 <!--
 
